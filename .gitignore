@@ -1,0 +1,24 @@
+# --- Vim ---------------------------------------------------------------------
+
+.swp
+.*.swp
+tags
+tags.lock
+tags.temp
+.vimspector.json
+
+# --- C/C++ -------------------------------------------------------------------
+
+*.o
+*.out
+*.d
+*.a
+*.so
+
+# --- Build Artifacts ---------------------------------------------------------
+
+*.test
+compile_commands.json
+log.txt
+debug_build/
+release_build/
