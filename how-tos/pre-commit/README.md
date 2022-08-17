@@ -1,4 +1,4 @@
-#How-To Configure pre-commit with flake8
+# How-To Configure pre-commit with flake8
 
 1. Setup [Flake8][3] guide can be found at [santexgroup.com][4]
 
